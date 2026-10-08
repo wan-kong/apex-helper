@@ -1,0 +1,7 @@
+{
+  "name": "Apex Runner",
+  "identifier": "com.wood02.apexrunner",
+  "version": "0.1.0",
+  "icon": "resources/icon.png",
+  "out": "dist"
+}
